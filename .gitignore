@@ -1,7 +1,5 @@
 # Datos crudos: no van al repo
-data/*.tif
-data/*.zip
-data/*.geotiff
+data/*
 
 # Python
 __pycache__/
